@@ -3,7 +3,7 @@
 A lightweight, mobile‑first static site you can deploy anywhere (GitHub Pages, Netlify, Vercel, Cloudflare Pages).
 
 ## Customize
-- **Phone**: Search for `281-555-0223` in the code and replace with your number.
+- **Phone**: Search for `3463007278` in the code and replace with your number.
 - **Email**: Replace `owner@example.com` in `index.html`, `privacy.html`.
 - **Links**: Update Instagram handle and `https://www.example.com` URLs.
 - **Hours/Service area**: Edit the Hours panel and JSON‑LD in `<head>` of `index.html`.
